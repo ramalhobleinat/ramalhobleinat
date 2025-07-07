@@ -7,10 +7,6 @@
 💡 Criadora de soluções que unem **backend robusto** e **impacto real**  
 🌱 Atualmente imersa em **Java, Cloud Computing e Análise de Dados**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72DDF7&width=435&lines=Da+programação+em+bloco+aos+sistemas+distribuídos;Eficiência+é+minha+linguagem+de+amor;Building+the+future+one+commit+at+a+time" alt="Typing Animation" />
-</p>
-
 ---
 
 ## 🛠 **Tech Stack**  
