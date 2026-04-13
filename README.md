@@ -5,7 +5,7 @@
 ### **Engenheira de Software em Formação | Inovação com Propósito**  
 🎓 4º Semestre de Eng. Software na **FIAP** | 🏆 Vencedora do **NEXT 2024** (Tech Mahindra)  
 💡 Criadora de soluções que unem **backend robusto** e **impacto real**  
-🌱 Atualmente imersa em **Java, Cloud Computing e Análise de Dados**
+🌱 Atualmente imersa em **Java, Cloud Computing, Cyber Sec e Análise de Dados**
 
 ---
 
